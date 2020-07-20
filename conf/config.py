@@ -23,18 +23,18 @@ import os
 DEFAULT_LANG = 'ja'
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
+ADMIN_ACCOUNT = "ki2264@kig"
 DOMAIN_ID = 0
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "jp1gJndbIdWCB"
+SERVER_CONSUMER_KEY = "rsDL0jvg93G1sAn3Wllq"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "a7f9b6ed139e41d7b81d11afec8c4019"
+SECRET_KEY_NAME = "private_20200706114930.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://lineworksapp.herokuapp.com/"
 
 # DB config
 DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
